@@ -5,3 +5,5 @@ databento==0.26.0
 requests==2.31.0
 pandas==2.2.2
 # Removed tensorflow as it was not used in the app and causing errors
+pandas
+yfinance
