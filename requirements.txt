@@ -1,0 +1,39 @@
+# Core Web Framework
+streamlit==1.29.0
+
+# Database and Storage
+supabase==2.3.0
+python-dotenv==1.0.0
+
+# Market Data and Trading APIs
+databento==0.26.0
+requests==2.31.0
+
+# Data Processing and Analysis
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualization
+plotly==5.18.0
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Machine Learning and NLP
+scikit-learn==1.3.2
+tensorflow==2.15.0
+nltk==3.8.1
+openai==1.6.1
+
+# Authentication and Payments
+stripe==7.9.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+pydantic==2.5.3
+
+# Optional: Voice Transcription (if needed)
+# assemblyai==0.17.0
+
+# Optional: Discord Integration (if needed)
+# discord.py==2.3.2
